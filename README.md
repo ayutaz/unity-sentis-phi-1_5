@@ -1,7 +1,10 @@
-# UnityTemplateRepository
-Unity Project template Repository
+# unity-sentis-phi-1_5
 
-# Demo
+[unity/sentis-phi-1_5](https://huggingface.co/unity/sentis-phi-1_5)をを動かすテスト
 
 # requirements
-* Unity 2022.2.0f1
+* Unity 2023.3.0b2
+
+# license
+* [Apache License 2.0](./LICENSE)
+* モデル等は、[cc-by-4.0]()です
